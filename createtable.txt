@@ -1,0 +1,9 @@
+CREATE TABLE companies (
+    Rank INT,
+    Name VARCHAR(255),
+    Industry VARCHAR(255),
+    Revenue_USD_millions VARCHAR(255),
+    Revenue_growth VARCHAR(10),
+    Employees VARCHAR(20),
+    Headquarters VARCHAR(255)
+);
